@@ -1,7 +1,7 @@
 # Analise-vendas-sql-powerbi
 Projeto de análise de vendas utilizando SQL no MySQL Workbench e Power BI.
 
-Desenvolvido com o intuito de praticar análise de dados atraves da criação de meu primeiro projeto, utilizando SQL, MySQL Workbench e Power BI.
+Desenvolvido com o intuito de praticar a análise de dados atraves da criação de meu primeiro projeto, com dados fictícios gerados dos IA, utilizando SQL, MySQL Workbench e Power BI.
 
 ## Tecnologias Utilizadas
 - SQL no MySQL Workbench

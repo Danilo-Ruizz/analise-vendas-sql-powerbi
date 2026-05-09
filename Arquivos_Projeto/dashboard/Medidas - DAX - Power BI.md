@@ -1,0 +1,1 @@
+Ticket_medio = DIVIDE(sum('TB-fato_vendas'[faturamento]), DISTINCTCOUNT('TB-fato_vendas'[id_venda]), 0)
